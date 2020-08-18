@@ -1,0 +1,19 @@
+.simply-scroll-clip {
+  position: relative;
+  overflow: hidden;
+}
+
+.simply-scroll-list {
+  display: flex;
+  overflow: hidden;
+}
+
+.simply-scroll-list li {
+  width: 300px;
+  height: 198.7px;
+}
+
+.simply-scroll-container {
+  width: 1200px;
+  margin: 0 auto;
+}
